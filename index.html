@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <!-- Import CSS -->
+   <link rel="stylesheet" href="style.css">
+   <!-- Google Fonts -->
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+   <title>Consulte o Clima</title>
+</head>
+
+<body>
+   <h1>Consulte o Clima</h1>
+
+   <form class="busca">
+      <input type="search" id="searchInput">
+      <button>Buscar</button>
+   </form>
+   <div class="resultado">
+      <div class="titulo"></div>
+
+      <div class="info">
+         <div class="temp">
+            <div class="temp__titulo">Temperatura</div>
+            <div class="temp__info"><sup>ºC</sup></div>
+            <!-- <img src="http://openweathermap.org/img/wn/10d@2x.png"> -->
+            <img class="image">
+         </div>
+      </div>
+   </div>
+
+   <div class="aviso"></div>
+
+   <footer>Criado por Arthur Saldanha</footer>
+   
+   <script src="script.js"></script>
+</body>
+
+</html>
