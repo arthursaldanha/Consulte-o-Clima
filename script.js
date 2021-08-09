@@ -21,6 +21,7 @@
             })
          } else {
             showWarning("Não encontramos esta localização!");
+            document.querySelector(".resultado").style.display = "none";
          }
       }
    });
