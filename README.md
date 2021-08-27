@@ -19,7 +19,7 @@ Este projetinho foi feito para exercitar a aprender mais sobre JavaScript (ES6+)
 O objetivo do projeto é tornar o usuário capaz de pesquisar o clima da sua cidade e ver a temperatura em tempo real incluindo ícones ilustrativos para uma melhor compreensão!
 
 ### Link do Projeto
-- URL do projeto ativo: [Projeto ativo](https://arthursaldanha.github.io/Consulte-o-Clima/)
+- URL do projeto ativo: [Projeto ativo](https://arthursaldanha.github.io/Weather-Search/)
 
 ## Meu processo
 ### Criado com
